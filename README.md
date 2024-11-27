@@ -1,7 +1,7 @@
 # HIDmibbi
 Simple Admin Access on WIN11 devices using any microcontroller with HID over USB
 
-Using the Windows 11 GUI with a HID Library, the Microcontroller simulates keyboard inputs to gain admin access in 7 commands. 
+Using the Windows 11 GUI, the Microcontroller simulates keyboard inputs to gain admin access in 7 commands. 
 
 1. Windows Button to open Start
 2. Types in Command
